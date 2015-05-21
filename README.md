@@ -11,3 +11,4 @@ Each subscription will be processed in the backend where report is generated and
 MVP project is the web api that interactive with the frontend for CRUD actions.
 
 TODO: create factory service for the CRUD actions call to encapsulate the complexity.
+      bootstrap the template
